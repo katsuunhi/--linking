@@ -18,10 +18,6 @@ $("#triggerBtn").click(function() {
 	trigger();
 });
 
-$("#adviceBtn").click(function() {
-	advice();
-});
-
 // column number
 var gameXSize = 6;
 // row number
